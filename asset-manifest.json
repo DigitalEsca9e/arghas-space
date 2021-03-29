@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/arghas-space/static/css/main.dcdfff5c.chunk.css",
-    "main.js": "/arghas-space/static/js/main.809790fe.chunk.js",
-    "main.js.map": "/arghas-space/static/js/main.809790fe.chunk.js.map",
+    "main.js": "/arghas-space/static/js/main.52d4f206.chunk.js",
+    "main.js.map": "/arghas-space/static/js/main.52d4f206.chunk.js.map",
     "runtime-main.js": "/arghas-space/static/js/runtime-main.f1902d4a.js",
     "runtime-main.js.map": "/arghas-space/static/js/runtime-main.f1902d4a.js.map",
     "static/js/2.1e063ac0.chunk.js": "/arghas-space/static/js/2.1e063ac0.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.f1902d4a.js",
     "static/js/2.1e063ac0.chunk.js",
     "static/css/main.dcdfff5c.chunk.css",
-    "static/js/main.809790fe.chunk.js"
+    "static/js/main.52d4f206.chunk.js"
   ]
 }
