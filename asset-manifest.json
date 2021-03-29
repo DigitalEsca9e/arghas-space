@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/arghas-space/static/css/main.4af31941.chunk.css",
+    "main.css": "/arghas-space/static/css/main.dcdfff5c.chunk.css",
     "main.js": "/arghas-space/static/js/main.18b27d1e.chunk.js",
     "main.js.map": "/arghas-space/static/js/main.18b27d1e.chunk.js.map",
     "runtime-main.js": "/arghas-space/static/js/runtime-main.f1902d4a.js",
@@ -12,13 +12,13 @@
     "index.html": "/arghas-space/index.html",
     "service-worker.js": "/arghas-space/service-worker.js",
     "service-worker.js.map": "/arghas-space/service-worker.js.map",
-    "static/css/main.4af31941.chunk.css.map": "/arghas-space/static/css/main.4af31941.chunk.css.map",
+    "static/css/main.dcdfff5c.chunk.css.map": "/arghas-space/static/css/main.dcdfff5c.chunk.css.map",
     "static/js/2.8aa1097b.chunk.js.LICENSE.txt": "/arghas-space/static/js/2.8aa1097b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f1902d4a.js",
     "static/js/2.8aa1097b.chunk.js",
-    "static/css/main.4af31941.chunk.css",
+    "static/css/main.dcdfff5c.chunk.css",
     "static/js/main.18b27d1e.chunk.js"
   ]
 }
