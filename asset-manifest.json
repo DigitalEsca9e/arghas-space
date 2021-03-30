@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/arghas-space/static/css/main.3440f382.chunk.css",
-    "main.js": "/arghas-space/static/js/main.d1c88c80.chunk.js",
-    "main.js.map": "/arghas-space/static/js/main.d1c88c80.chunk.js.map",
+    "main.js": "/arghas-space/static/js/main.0bebb9be.chunk.js",
+    "main.js.map": "/arghas-space/static/js/main.0bebb9be.chunk.js.map",
     "runtime-main.js": "/arghas-space/static/js/runtime-main.f1902d4a.js",
     "runtime-main.js.map": "/arghas-space/static/js/runtime-main.f1902d4a.js.map",
     "static/js/2.80807a69.chunk.js": "/arghas-space/static/js/2.80807a69.chunk.js",
@@ -13,12 +13,13 @@
     "service-worker.js": "/arghas-space/service-worker.js",
     "service-worker.js.map": "/arghas-space/service-worker.js.map",
     "static/css/main.3440f382.chunk.css.map": "/arghas-space/static/css/main.3440f382.chunk.css.map",
-    "static/js/2.80807a69.chunk.js.LICENSE.txt": "/arghas-space/static/js/2.80807a69.chunk.js.LICENSE.txt"
+    "static/js/2.80807a69.chunk.js.LICENSE.txt": "/arghas-space/static/js/2.80807a69.chunk.js.LICENSE.txt",
+    "static/media/Asset1.a7dbb21c.jpg": "/arghas-space/static/media/Asset1.a7dbb21c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f1902d4a.js",
     "static/js/2.80807a69.chunk.js",
     "static/css/main.3440f382.chunk.css",
-    "static/js/main.d1c88c80.chunk.js"
+    "static/js/main.0bebb9be.chunk.js"
   ]
 }
