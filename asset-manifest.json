@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/arghas-space/static/css/main.be238f7a.chunk.css",
-    "main.js": "/arghas-space/static/js/main.1bbe8fff.chunk.js",
-    "main.js.map": "/arghas-space/static/js/main.1bbe8fff.chunk.js.map",
+    "main.css": "/arghas-space/static/css/main.8a200c0d.chunk.css",
+    "main.js": "/arghas-space/static/js/main.7c54623e.chunk.js",
+    "main.js.map": "/arghas-space/static/js/main.7c54623e.chunk.js.map",
     "runtime-main.js": "/arghas-space/static/js/runtime-main.342d1586.js",
     "runtime-main.js.map": "/arghas-space/static/js/runtime-main.342d1586.js.map",
     "static/js/2.e13f749f.chunk.js": "/arghas-space/static/js/2.e13f749f.chunk.js",
@@ -12,14 +12,16 @@
     "index.html": "/arghas-space/index.html",
     "service-worker.js": "/arghas-space/service-worker.js",
     "service-worker.js.map": "/arghas-space/service-worker.js.map",
-    "static/css/main.be238f7a.chunk.css.map": "/arghas-space/static/css/main.be238f7a.chunk.css.map",
+    "static/css/main.8a200c0d.chunk.css.map": "/arghas-space/static/css/main.8a200c0d.chunk.css.map",
     "static/js/2.e13f749f.chunk.js.LICENSE.txt": "/arghas-space/static/js/2.e13f749f.chunk.js.LICENSE.txt",
     "static/media/ARGHA-Resume.02cc0a14.pdf": "/arghas-space/static/media/ARGHA-Resume.02cc0a14.pdf",
     "static/media/Asset1.a7dbb21c.jpg": "/arghas-space/static/media/Asset1.a7dbb21c.jpg",
     "static/media/Asset2.d3cb7da3.png": "/arghas-space/static/media/Asset2.d3cb7da3.png",
+    "static/media/BoyCottMe_logo.f2935225.png": "/arghas-space/static/media/BoyCottMe_logo.f2935225.png",
     "static/media/Digital travel(Video Thumbnail).5f0c7427.PNG": "/arghas-space/static/media/Digital travel(Video Thumbnail).5f0c7427.PNG",
     "static/media/Manifest.41af2d9a.PNG": "/arghas-space/static/media/Manifest.41af2d9a.PNG",
     "static/media/Shirin Neshat(Video Thumbnail).b9fa7fb9.PNG": "/arghas-space/static/media/Shirin Neshat(Video Thumbnail).b9fa7fb9.PNG",
+    "static/media/Stuck.8827e172.PNG": "/arghas-space/static/media/Stuck.8827e172.PNG",
     "static/media/boycottme.40b3a5fc.png": "/arghas-space/static/media/boycottme.40b3a5fc.png",
     "static/media/geekhaven.2a012e17.PNG": "/arghas-space/static/media/geekhaven.2a012e17.PNG",
     "static/media/profile_pic.c2ed6e72.jpg": "/arghas-space/static/media/profile_pic.c2ed6e72.jpg"
@@ -27,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.342d1586.js",
     "static/js/2.e13f749f.chunk.js",
-    "static/css/main.be238f7a.chunk.css",
-    "static/js/main.1bbe8fff.chunk.js"
+    "static/css/main.8a200c0d.chunk.css",
+    "static/js/main.7c54623e.chunk.js"
   ]
 }
