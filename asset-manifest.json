@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/arghas-space/static/css/main.deac096a.chunk.css",
-    "main.js": "/arghas-space/static/js/main.b5af4827.chunk.js",
-    "main.js.map": "/arghas-space/static/js/main.b5af4827.chunk.js.map",
-    "runtime-main.js": "/arghas-space/static/js/runtime-main.9c51ef8b.js",
-    "runtime-main.js.map": "/arghas-space/static/js/runtime-main.9c51ef8b.js.map",
-    "static/js/2.474d54dd.chunk.js": "/arghas-space/static/js/2.474d54dd.chunk.js",
-    "static/js/2.474d54dd.chunk.js.map": "/arghas-space/static/js/2.474d54dd.chunk.js.map",
-    "static/js/3.55ce53de.chunk.js": "/arghas-space/static/js/3.55ce53de.chunk.js",
-    "static/js/3.55ce53de.chunk.js.map": "/arghas-space/static/js/3.55ce53de.chunk.js.map",
+    "main.css": "/arghas-space/static/css/main.42083a9b.chunk.css",
+    "main.js": "/arghas-space/static/js/main.b7e9f77a.chunk.js",
+    "main.js.map": "/arghas-space/static/js/main.b7e9f77a.chunk.js.map",
+    "runtime-main.js": "/arghas-space/static/js/runtime-main.342d1586.js",
+    "runtime-main.js.map": "/arghas-space/static/js/runtime-main.342d1586.js.map",
+    "static/js/2.a442584f.chunk.js": "/arghas-space/static/js/2.a442584f.chunk.js",
+    "static/js/2.a442584f.chunk.js.map": "/arghas-space/static/js/2.a442584f.chunk.js.map",
+    "static/js/3.c6a18f63.chunk.js": "/arghas-space/static/js/3.c6a18f63.chunk.js",
+    "static/js/3.c6a18f63.chunk.js.map": "/arghas-space/static/js/3.c6a18f63.chunk.js.map",
     "index.html": "/arghas-space/index.html",
     "service-worker.js": "/arghas-space/service-worker.js",
     "service-worker.js.map": "/arghas-space/service-worker.js.map",
-    "static/css/main.deac096a.chunk.css.map": "/arghas-space/static/css/main.deac096a.chunk.css.map",
-    "static/js/2.474d54dd.chunk.js.LICENSE.txt": "/arghas-space/static/js/2.474d54dd.chunk.js.LICENSE.txt",
+    "static/css/main.42083a9b.chunk.css.map": "/arghas-space/static/css/main.42083a9b.chunk.css.map",
+    "static/js/2.a442584f.chunk.js.LICENSE.txt": "/arghas-space/static/js/2.a442584f.chunk.js.LICENSE.txt",
     "static/media/Asset1.a7dbb21c.jpg": "/arghas-space/static/media/Asset1.a7dbb21c.jpg",
     "static/media/Asset2.d3cb7da3.png": "/arghas-space/static/media/Asset2.d3cb7da3.png",
     "static/media/Digital travel(Video Thumbnail).5f0c7427.PNG": "/arghas-space/static/media/Digital travel(Video Thumbnail).5f0c7427.PNG",
     "static/media/Shirin Neshat(Video Thumbnail).b9fa7fb9.PNG": "/arghas-space/static/media/Shirin Neshat(Video Thumbnail).b9fa7fb9.PNG",
     "static/media/boycottme.40b3a5fc.png": "/arghas-space/static/media/boycottme.40b3a5fc.png",
-    "static/media/geekhaven.2a012e17.PNG": "/arghas-space/static/media/geekhaven.2a012e17.PNG"
+    "static/media/geekhaven.2a012e17.PNG": "/arghas-space/static/media/geekhaven.2a012e17.PNG",
+    "static/media/profile_pic.c2ed6e72.jpg": "/arghas-space/static/media/profile_pic.c2ed6e72.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c51ef8b.js",
-    "static/js/2.474d54dd.chunk.js",
-    "static/css/main.deac096a.chunk.css",
-    "static/js/main.b5af4827.chunk.js"
+    "static/js/runtime-main.342d1586.js",
+    "static/js/2.a442584f.chunk.js",
+    "static/css/main.42083a9b.chunk.css",
+    "static/js/main.b7e9f77a.chunk.js"
   ]
 }
