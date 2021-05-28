@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/arghas-space/static/css/main.8a200c0d.chunk.css",
-    "main.js": "/arghas-space/static/js/main.7c54623e.chunk.js",
-    "main.js.map": "/arghas-space/static/js/main.7c54623e.chunk.js.map",
-    "runtime-main.js": "/arghas-space/static/js/runtime-main.342d1586.js",
-    "runtime-main.js.map": "/arghas-space/static/js/runtime-main.342d1586.js.map",
-    "static/js/2.e13f749f.chunk.js": "/arghas-space/static/js/2.e13f749f.chunk.js",
-    "static/js/2.e13f749f.chunk.js.map": "/arghas-space/static/js/2.e13f749f.chunk.js.map",
-    "static/js/3.c6a18f63.chunk.js": "/arghas-space/static/js/3.c6a18f63.chunk.js",
-    "static/js/3.c6a18f63.chunk.js.map": "/arghas-space/static/js/3.c6a18f63.chunk.js.map",
+    "main.css": "/arghas-space/static/css/main.c40075af.chunk.css",
+    "main.js": "/arghas-space/static/js/main.2e7c072b.chunk.js",
+    "main.js.map": "/arghas-space/static/js/main.2e7c072b.chunk.js.map",
+    "runtime-main.js": "/arghas-space/static/js/runtime-main.ab643863.js",
+    "runtime-main.js.map": "/arghas-space/static/js/runtime-main.ab643863.js.map",
+    "static/js/2.83ec3662.chunk.js": "/arghas-space/static/js/2.83ec3662.chunk.js",
+    "static/js/2.83ec3662.chunk.js.map": "/arghas-space/static/js/2.83ec3662.chunk.js.map",
+    "static/js/3.0166fcb8.chunk.js": "/arghas-space/static/js/3.0166fcb8.chunk.js",
+    "static/js/3.0166fcb8.chunk.js.map": "/arghas-space/static/js/3.0166fcb8.chunk.js.map",
     "index.html": "/arghas-space/index.html",
     "service-worker.js": "/arghas-space/service-worker.js",
     "service-worker.js.map": "/arghas-space/service-worker.js.map",
-    "static/css/main.8a200c0d.chunk.css.map": "/arghas-space/static/css/main.8a200c0d.chunk.css.map",
-    "static/js/2.e13f749f.chunk.js.LICENSE.txt": "/arghas-space/static/js/2.e13f749f.chunk.js.LICENSE.txt",
+    "static/css/main.c40075af.chunk.css.map": "/arghas-space/static/css/main.c40075af.chunk.css.map",
+    "static/js/2.83ec3662.chunk.js.LICENSE.txt": "/arghas-space/static/js/2.83ec3662.chunk.js.LICENSE.txt",
     "static/media/ARGHA-Resume.02cc0a14.pdf": "/arghas-space/static/media/ARGHA-Resume.02cc0a14.pdf",
     "static/media/Asset1.a7dbb21c.jpg": "/arghas-space/static/media/Asset1.a7dbb21c.jpg",
     "static/media/Asset2.d3cb7da3.png": "/arghas-space/static/media/Asset2.d3cb7da3.png",
@@ -27,9 +27,9 @@
     "static/media/profile_pic.c2ed6e72.jpg": "/arghas-space/static/media/profile_pic.c2ed6e72.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.342d1586.js",
-    "static/js/2.e13f749f.chunk.js",
-    "static/css/main.8a200c0d.chunk.css",
-    "static/js/main.7c54623e.chunk.js"
+    "static/js/runtime-main.ab643863.js",
+    "static/js/2.83ec3662.chunk.js",
+    "static/css/main.c40075af.chunk.css",
+    "static/js/main.2e7c072b.chunk.js"
   ]
 }
